@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0-alpha.1/jquery.mobile-1.2.0-alpha.1.min.css" />
+<link rel="stylesheet" href="./style.css">
+<!-- <link rel="stylesheet" href="http://chalk1up.net/star-rating/jquery.rating.css"> -->
+<link rel="stylesheet" href="http://chalk1up.net/rating_star/css/rating_star.css">
+<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script>
+  $(document).bind('mobileinit', function() {
+    $.mobile.loadingMessageTheme='b';
+    $.mobile.loadingMessage='Chalk1Up Page Loading...';
+    $.mobile.loadingMessageTextVisible=true;
+    $.mobile.ajaxLinksEnabled = false;
+    $.mobile.ajaxEnabled = false;
+  });
+  //     $.mobile.loader.prototype.options.html = "<image style='width:200px; border-radius:8px' src='http://chalk1up.net/images/logo_thumb.jpg'><p style='text-align:center'>Loading page...</p>";
+</script>
