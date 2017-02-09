@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Chalk 1 Up - Custom Designs</title>
+    <title>Chalk 1 Up - Climbing Holds</title>
     <meta name="description" content="Chalk 1 Up custom designed chalk bags and sports apparel." />
     <meta name="keywords" content="Home,CHALK1UP,Chalk,1,Up,Custom,Design,Designs,Rock,Climb,Climbing,Boulder,Bucket,Bag,Pot,Apparel,Shirt,Shirts,Ross,Nordstrom,Cat,Cody" />
     <meta name="author" content="Ross Nordstrom" />
