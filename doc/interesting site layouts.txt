@@ -1,0 +1,3 @@
+css-tricks.com/examples/CleanCode/Beautiful-HTML.png	- Explains good coding techniques
+rakaz.nl - minimalist, elegant design
+http://www.smashingmagazine.com/2008/09/03/40-creative-design-layouts-getting-out-of-the-box/

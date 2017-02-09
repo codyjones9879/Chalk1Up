@@ -1,0 +1,16 @@
+.ui-header, .ui-footer {font-variant:small-caps; font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;}
+.ui-footer {white-space: normal;}
+.ui-icon-chalk1up-logo {
+  background-image: url("http://chalk1up.net/images/chalk1up-logo-18.png");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  .ui-icon-chalk1up-logo {
+    background-image: url("http://chalk1up.net/images/chalk1up-logo-36.png");
+    background-size: 18px 18px;
+  }
+  ...more HD icon rules go here...
+}
+.center-wrapper {text-align:center;}
+.center-wrapper * {margin:0 auto; display:inline-block;}
+.refreshToShow {display:none;}
+body .ui-li .ui-li-desc {white-space: normal;}
